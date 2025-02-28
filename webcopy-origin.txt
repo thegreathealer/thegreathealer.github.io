@@ -1,0 +1,964 @@
+Uri: https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400%2C600|Cinzel:400%2C|Montserrat:600&display=fallback&ver=4.7.3
+File Name: C:\Downloaded Web Sites\sarasongi.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nuosu+SIL:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Halant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Familjen+Grotesk:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Oranienbaum:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Manjari:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Halant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Archivo+Narrow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nuosu+SIL:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Hammersmith+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Familjen+Grotesk:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Oranienbaum:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Manjari:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Halant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Hammersmith+One:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|IM+Fell+Double+Pica:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nuosu+SIL:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/earlyaccess/opensanshebrew.css?ver=6.6.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\earlyaccess\opensanshebrew-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css?ver=6.6.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\earlyaccess\opensanshebrewcondensed-1.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Bold.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Bold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-BoldItalic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-ExtraBoldItalic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-ExtraBoldItalic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Italic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Italic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Light-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Light-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Light-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Light-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Light.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Light-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-LightItalic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrew/v3/OpenSansHebrew-Regular.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrew\v3\OpenSansHebrew-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Bold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-BoldItalic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-ExtraBoldItalic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Italic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Light-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-LightItalic-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.eot
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.eot?
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.woff
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular.woff2
+File Name: C:\Downloaded Web Sites\sarasongi.com\ea\opensanshebrewcondensed\v3\OpenSansHebrewCondensed-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhv8la6o3mp.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhv8la6o3mp-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvHlG6o3mp.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvHlG6o3mp-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvLFG6o3mp.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvLFG6o3mp-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvy1a6o3mp.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvy1a6o3mp-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJi50muPCU.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJi50muPCU-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJQ50muPCU.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BJQ50muPCU-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BK84EmuPCU.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BK84EmuPCU-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/archivonarrow/v30/tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BKF4EmuPCU.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\archivonarrow\v30\tss7ApVBdCYD5Q7hcxTE1ArZ0bb1k3JSLwe1hB965BKF4EmuPCU-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v23/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCA.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\cinzel\v23\8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKhqpSVv0EA.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKhqpSVv0EA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKiOpSVv0EA.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKiOpSVv0EA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKsSuSVv0EA.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKsSuSVv0EA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKvauSVv0EA.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw31ZR9ZHiDnImG6-NEMQ41wby8WbH8egZPOLG0oe9RBKvauSVv0EA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMFubhzqeVw.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMFubhzqeVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMFXbhzqeVw.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMFXbhzqeVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMG7aRzqeVw.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMG7aRzqeVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/familjengrotesk/v8/Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMGJaRzqeVw.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\familjengrotesk\v8\Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMGJaRzqeVw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/halant/v14/u-4-0qaujRI2Pbsn2Nhi.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\halant\v14\u-4-0qaujRI2Pbsn2Nhi-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2PbsvB_xynAxu.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\halant\v14\u-490qaujRI2PbsvB_xynAxu-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2Pbsvc_pynAxu.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\halant\v14\u-490qaujRI2Pbsvc_pynAxu-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2PbsvK_tynAxu.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\halant\v14\u-490qaujRI2PbsvK_tynAxu-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/halant/v14/u-490qaujRI2PbsvY_1ynAxu.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\halant\v14\u-490qaujRI2PbsvY_1ynAxu-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hammersmithone/v17/qWcyB624q4L_C4jGQ9IK0O_dFlnrtREg.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\hammersmithone\v17\qWcyB624q4L_C4jGQ9IK0O_dFlnrtREg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/imfelldoublepica/v14/3XF0EqMq_94s9PeKF7Fg4gOKINyMtZ8rf0aPU5ZB.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\imfelldoublepica\v14\3XF0EqMq_94s9PeKF7Fg4gOKINyMtZ8rf0aPU5ZB-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/imfelldoublepica/v14/3XF2EqMq_94s9PeKF7Fg4gOKINyMtZ8rf0O_VA.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\imfelldoublepica\v14\3XF2EqMq_94s9PeKF7Fg4gOKINyMtZ8rf0O_VA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\imfelldwpica\v16\2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manjari/v12/k3kQo8UPMOBO2w1UfdnoKw.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\manjari\v12\k3kQo8UPMOBO2w1UfdnoKw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manjari/v12/k3kSo8UPMOBO2w1UdbrYLGHB.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\manjari\v12\k3kSo8UPMOBO2w1UdbrYLGHB-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manjari/v12/k3kVo8UPMOBO2w1UdWLNO0bhKQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\manjari\v12\k3kVo8UPMOBO2w1UdWLNO0bhKQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nuosusil/v10/8vIK7wM3wmRn_kc4uAjuE2Zf.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\nuosusil\v10\8vIK7wM3wmRn_kc4uAjuE2Zf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oranienbaum/v15/OZpHg_txtzZKMuXLIVrx-0zg5Eg.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\oranienbaum\v15\OZpHg_txtzZKMuXLIVrx-0zg5Eg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sarasongi.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://sarasongi.com/
+File Name: C:\Downloaded Web Sites\sarasongi.com\index-1.htm
+Content Type: text/html
+
+Uri: https://sarasongi.com/comments/feed/
+File Name: C:\Downloaded Web Sites\sarasongi.com\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://sarasongi.com/feed/
+File Name: C:\Downloaded Web Sites\sarasongi.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://sarasongi.com/testimonials/
+File Name: C:\Downloaded Web Sites\sarasongi.com\testimonials\index-1.htm
+Content Type: text/html
+
+Uri: https://sarasongi.com/traditionalhealing/
+File Name: C:\Downloaded Web Sites\sarasongi.com\traditionalhealing\index-1.htm
+Content Type: text/html
+
+Uri: https://sarasongi.com/wp-content/plugins/astra-sites/inc/lib/onboarding/assets/dist/template-preview/main.js?ver=06758d4d807d9d22c6ea
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\astra-sites\inc\lib\onboarding\assets\dist\template-preview\main-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/plugins/creame-whatsapp-me/public/css/joinchat-btn.min.css?ver=5.1.6
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\creame-whatsapp-me\public\css\joinchat-btn.min-1.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.1.6
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\creame-whatsapp-me\public\js\joinchat.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.22.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.22.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.22.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.22.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.22.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\lib\animations\animations.min-1.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/plugins/wp-content-copy-protector/images/warning.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\plugins\wp-content-copy-protector\images\warning.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.7.3
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.7.3
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\themes\astra\assets\js\minified\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/adfoajlad0ak-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\adfoajlad0ak-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/adfoajlad0ak-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\adfoajlad0ak-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/adfoajlad0ak.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\adfoajlad0ak.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/ajsrdsjtd0klh.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\ajsrdsjtd0klh.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/client0adw.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\client0adw.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/client0etr.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\client0etr.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/client0swq.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\client0swq.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/client0swx.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\client0swx.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/client0tfr.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\client0tfr.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/client0ttf.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\client0ttf.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/couple_image_101.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\couple_image_101.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/couple_image_103-scaled.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\couple_image_103-scaled.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/couple_image_1045.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\couple_image_1045.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/cropped-fav_nw-1-1-180x180.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\cropped-fav_nw-1-1-180x180.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/cropped-fav_nw-1-1-192x192.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\cropped-fav_nw-1-1-192x192.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/cropped-fav_nw-1-1-32x32.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\cropped-fav_nw-1-1-32x32.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/cropped-songi-logo-283x79.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\cropped-songi-logo-283x79.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/dsaafa0affa-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\dsaafa0affa-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/dsaafa0affa-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\dsaafa0affa-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/dsaafa0affa.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\dsaafa0affa.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/gafxshd0o-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\gafxshd0o-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/gafxshd0o-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\gafxshd0o-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/gafxshd0o.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\gafxshd0o.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/lghfwlqf0wqek.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\lghfwlqf0wqek.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/love-couple-songi31-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\love-couple-songi31-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/love-couple-songi31-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\love-couple-songi31-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/love-couple-songi31.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\love-couple-songi31.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/qafsfja0sfj-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\qafsfja0sfj-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/qafsfja0sfj-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\qafsfja0sfj-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/qafsfja0sfj.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\qafsfja0sfj.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/sara-spiritual-healing-234x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\sara-spiritual-healing-234x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/sara-spiritual-healing.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\sara-spiritual-healing.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-client2.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-client2.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-client4.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-client4.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-client5.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-client5.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-client6.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-client6.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-client7.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-client7.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-client8.png
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-client8.png
+Content Type: image/png
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-cvr-image4.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-cvr-image4.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-image3-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-image3-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-image3-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-image3-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-image3.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-image3.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-image5-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-image5-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-image5-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-image5-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-image5.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-image5.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-mzansi-healer-we3.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-mzansi-healer-we3.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-psychic-healer313.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-psychic-healer313.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/songi-spells-2.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\songi-spells-2.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/spell-casting-by-songi.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\spell-casting-by-songi.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/zdbfxbx0ds-150x150.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\zdbfxbx0ds-150x150.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/zdbfxbx0ds-300x300.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\zdbfxbx0ds-300x300.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/2024/06/zdbfxbx0ds.webp
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\2024\06\zdbfxbx0ds.webp
+Content Type: image/webp
+
+Uri: https://sarasongi.com/wp-content/uploads/elementor/css/post-19.css?ver=1718996745
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/uploads/elementor/css/post-394.css?ver=1718990303
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\elementor\css\post-394.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/uploads/elementor/css/post-447.css?ver=1718992142
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\elementor\css\post-447.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-content/uploads/elementor/css/post-5.css?ver=1718964931
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://sarasongi.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-includes\js\dist\dom-ready.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/javascript
+
+Uri: https://sarasongi.com/wp-json/
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://sarasongi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsarasongi.com%2F
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://sarasongi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsarasongi.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://sarasongi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsarasongi.com%2Ftestimonials%2F
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://sarasongi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsarasongi.com%2Ftestimonials%2F&format=xml
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://sarasongi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsarasongi.com%2Ftraditionalhealing%2F
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://sarasongi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsarasongi.com%2Ftraditionalhealing%2F&format=xml
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://sarasongi.com/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://sarasongi.com/wp-json/wp/v2/pages/394
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\wp\v2\pages\394
+Content Type: application/json
+
+Uri: https://sarasongi.com/wp-json/wp/v2/pages/447
+File Name: C:\Downloaded Web Sites\sarasongi.com\wp-json\wp\v2\pages\447
+Content Type: application/json
+
+Uri: https://sarasongi.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\sarasongi.com\xmlrpc-1.php
+Content Type: text/xml
+
